@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 14,
+    "files.autoSave": "onWindowChange",
+    "python.analysis.diagnosticPublishDelay": 954,
+    "files.encoding": "iso88591",
+    "editor.cursorBlinking": "blink",
+    "terminal.integrated.cursorStyle": "block"
+}
